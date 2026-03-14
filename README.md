@@ -2,7 +2,7 @@
 
 🚨 **Educational Use Only — Not for Clinical Diagnosis**
 
-This project demonstrates how a deep learning model analyzes chest X-ray images, highlights influential regions using **Grad-CAM**, and explains model behavior in **plain English**.  
+This project demonstrates how a deep learning model analyzes chest X-ray images, highlights salient regions using Grad-CAM, and explains its behavior in plain English.  
 It is designed as a **transparent, responsible AI demo** for medical imaging — **not** a diagnostic system.
 
 **Demo link:** https://huggingface.co/spaces/sbathina/chest-xray-xai-demo
@@ -139,14 +139,6 @@ Steps:
    
 <img width="1710" height="624" alt="Screenshot 2026-02-08 at 8 48 25 PM" src="https://github.com/user-attachments/assets/28c2bd6a-fb7f-4ae5-8e63-a25355003c94" />
 <img width="1709" height="637" alt="Screenshot 2026-02-08 at 8 48 49 PM" src="https://github.com/user-attachments/assets/819e52b1-f035-4816-ab65-11f4b758b012" />
-
----
-
-## 👩‍💻 Author
-
-**Sri Lakshmi Bathina**  
-AI / Data Engineer  
-📍 Boston, MA  
 
 ---
 
